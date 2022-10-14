@@ -1,0 +1,12 @@
+h1{
+    color: rgb(241, 0, 0);
+}
+
+.text{
+    font-weight: 10px;
+    color: blue;
+}
+box{
+    padding: 3px;
+    margin-left: 20px;
+}
