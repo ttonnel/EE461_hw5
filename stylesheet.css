@@ -4,9 +4,10 @@ h1{
 
 .text{
     font-weight: 10px;
-    color: blue;
+    color: red;
 }
-box{
+#speech{
     padding: 3px;
     margin-left: 20px;
+    background-color: aqua;
 }
